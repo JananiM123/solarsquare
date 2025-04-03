@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.btnAlign {
+  color: #fff;
+  margin-top: 1%;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+button {
+  cursor: pointer;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.reset {
+  color: #fff;
+  margin-left: 1%;
+  margin-top: 1%;
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+
+.box {
+  margin-top: 2%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.notSelected {
+  display: table;
+  height: 25px;
+  width: 25px;
+  background-color: white
+}
+
+.selected {
+  display: table;
+  height: 25px;
+  width: 25px;
+  border: 1px solid #d3d3d3;
+  background-color: grey;
+  color: grey;
+}
+
+.notSelected:hover {
+  background-color: rgb(190, 185, 185);
+}
