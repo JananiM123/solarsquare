@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JananiM123/solarsquare/static/css/main.c4174821.css",
+    "main.js": "/JananiM123/solarsquare/static/js/main.ef8dd422.js",
+    "static/js/787.c84b6147.chunk.js": "/JananiM123/solarsquare/static/js/787.c84b6147.chunk.js",
+    "index.html": "/JananiM123/solarsquare/index.html",
+    "main.c4174821.css.map": "/JananiM123/solarsquare/static/css/main.c4174821.css.map",
+    "main.ef8dd422.js.map": "/JananiM123/solarsquare/static/js/main.ef8dd422.js.map",
+    "787.c84b6147.chunk.js.map": "/JananiM123/solarsquare/static/js/787.c84b6147.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4174821.css",
+    "static/js/main.ef8dd422.js"
+  ]
+}
